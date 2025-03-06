@@ -2,7 +2,7 @@ Hello, I am currently attending college I am a freshmen in my second semester st
 My current courses are Computer Science 104 (CSC104) and How Computers Work (CSC195)
 
 ## 🌐 Socials:
-[!LinkedIn(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zswett@outlook.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zswett@outlook.com) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -13,4 +13,6 @@ My current courses are Computer Science 104 (CSC104) and How Computers Work (CSC
 
 ---
 [![](https://visitcount.itsvg.in/api?id=zswett10&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
