@@ -1,8 +1,17 @@
-Hello, I am currently a freshman in college currently studying computer science. I am currently learning Java.
-Email me at zswett@outlook.com with any questions!
+Hello, I am currently attending college I am a freshmen in my second semester studying computer science.
+My current courses are Computer Science 104 (CSC104) and How Computers Work (CSC195)
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rizzle1097) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zachary Swett) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zswett@outlook.com) 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg](https://www.iconfinder.com/icons/4691382/java_icon)" alt="php" width="45" height="45"/>
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zswett10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zswett10&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zswett10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=zswett10&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
