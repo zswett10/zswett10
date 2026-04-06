@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am currently attending college I am a sophmore currently taking Computer Forensics (351)
+Hello, I am Computer Science student in my second year at Bridgewater State University. Currently working on apps that can be used in daily life and teaching myself C++.
 
 
 ## 🌐 Socials:
