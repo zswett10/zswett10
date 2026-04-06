@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am currently attending college I am a freshmen in my second semester studying computer science.<br>My current courses are Computer Science 104 (CSC104) and How Computers Work (CSC195)
+Hello, I am currently attending college I am a sophmore currently taking Computer Forensics (351)
 
 
 ## 🌐 Socials:
