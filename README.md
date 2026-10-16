@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Computer Science student in my third year at Bridgewater State University. Currently working on apps that can be used in daily life and teaching myself C++.
+Hello, I am Computer Science student in my third year at Bridgewater State University. Currently working on my website and additional programs in python while also learning C.
 
 
 ## 🌐 Socials:
